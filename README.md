@@ -1,5 +1,3 @@
-# fail2ban_telegram_bot
-=======
 # Fail2Ban IP Notification Bot
 
 Этот бот для Telegram написан на Python и предназначен для отправки уведомлений о блокировке IP-адресов в программе Fail2Ban.
