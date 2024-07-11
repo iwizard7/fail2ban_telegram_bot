@@ -1,3 +1,4 @@
+[![CodeQL](https://github.com/iwizard7/fail2ban_telegram_bot/actions/workflows/codeql.yml/badge.svg)](https://github.com/iwizard7/fail2ban_telegram_bot/actions/workflows/codeql.yml)
 # Fail2Ban IP Notification Bot
 
 Этот бот для Telegram написан на Python и предназначен для отправки уведомлений о блокировке IP-адресов в программе Fail2Ban.
